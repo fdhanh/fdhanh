@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fdhanh
+- 👋 Hi, I’m Hafidah
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning about data engineering works
-- 📫 How to reach me you can find me on my linkedin
+- 📫 How to reach me you can find me on my linkedin or my another social media
 
 <!---
 fdhanh/fdhanh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
