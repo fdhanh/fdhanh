@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hafidah
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning about data engineering works
+- 🌱 I’m currently learning about data engineering
 - 📫 How to reach me you can find me on my linkedin or my another social media
 
 <!---
